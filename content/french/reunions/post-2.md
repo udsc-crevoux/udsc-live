@@ -1,6 +1,6 @@
 ---
 title: "REUNION PUBLIQUE SCOT"
-date: 2024-04-24
+date: 2024-04-02
 image: "https://github.com/hugo-astier/udsc-crevoux/assets/11679496/2ee45930-f05b-4bbb-8680-fd6871971aac"
 categories: ["Réunion"]
 author: "Hugo Astier"
@@ -9,7 +9,8 @@ draft: false
 
 # Présentation de la démarche SCoT :
 
-Dès janvier 2022, les élus de la communauté de communes de Serre-Ponçon ont souhaité s’engager dans l’élaboration de leur Schéma de Cohérence Territoriale. 
+Dès janvier 2022, les élus de la com![Uploading SCOT2.jpg…]()
+munauté de communes de Serre-Ponçon ont souhaité s’engager dans l’élaboration de leur Schéma de Cohérence Territoriale. 
 Ce document de planification portera la stratégie d’aménagement et de développement du territoire à 20 ans. 
 Qu’est-ce que le SCoT ?
 
