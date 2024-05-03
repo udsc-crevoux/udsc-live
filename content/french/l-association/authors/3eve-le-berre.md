@@ -18,4 +18,4 @@ description: this is meta description
 #     link: https://linkedin.com
 ---
 
-Résidente de Crévoux depuis 2017, je m’émerveille tous les jours de cet environnement si propice à la contemplation et aux activités sportives de nature. J’ai désiré participer à cet élan  dynamique pour la  pérennisation de ce lieu magique. Notre Station Village est une pépite qu’il faut protéger et fiabiliser pour notre plaisir et pour les générations futures. Cessons l’immobilisme.
+Résidente de Crévoux depuis 2017, je m’émerveille tous les jours de cet environnement si propice à la contemplation et aux activités sportives de nature. C'est pourquoi j’ai désiré participer à cet élan  dynamique pour la  pérennisation de ce lieu magique. Notre Station Village est une pépite qu’il faut protéger et fiabiliser pour notre plaisir et pour les générations futures.
