@@ -1,5 +1,5 @@
 ---
-title: "Ma nouvelle réunion"
+title: "REUNION PUBLIQUE SCOT"
 date: 2024-04-24
 image: "https://github.com/hugo-astier/udsc-crevoux/assets/11679496/2ee45930-f05b-4bbb-8680-fd6871971aac"
 categories: ["Réunion"]
@@ -7,13 +7,20 @@ author: "Hugo Astier"
 draft: false
 ---
 
-# Résumé de la Réunion :
-La réunion a débuté par une présentation détaillée de Jean Dupont concernant l'état actuel du marché asiatique et les opportunités de croissance pour l'entreprise. Marie Curie a ensuite exposé les défis logistiques et les considérations culturelles à prendre en compte. Ahmed Dali a proposé plusieurs stratégies de marketing adaptées aux divers marchés locaux, tandis que Liu Wei a souligné l'importance de partenariats locaux pour faciliter l'entrée sur ces marchés.
+# Présentation de la démarche SCoT :
 
-# Décisions Prises :
+Dès janvier 2022, les élus de la communauté de communes de Serre-Ponçon ont souhaité s’engager dans l’élaboration de leur Schéma de Cohérence Territoriale. 
+Ce document de planification portera la stratégie d’aménagement et de développement du territoire à 20 ans. 
+Qu’est-ce que le SCoT ?
 
-- Effectuer une étude de marché plus approfondie sur les régions spécifiques d'intérêt.
-- Créer un comité de pilotage pour superviser le projet d'expansion, avec Liu Wei comme responsable du comité.
-- Planifier une série de voyages d'affaires pour les membres clés de l'équipe afin de rencontrer des partenaires potentiels.
+Le SCoT sera un cadre de référence à l’échelle de l’intercommunalité, pour mettre en cohérence l’ensemble des politiques publiques d’aménagement du territoire : mobilité, développement économique, développement résidentiel, transition écologique…
+Il permet une réflexion collective sur les défis du territoire en matière de transition écologique, énergétique et de changement climatique.
+Il vise à trouver des solutions partagées pour assurer le développement du territoire tout en préservant les ressources naturelles.
 
-![fictional-meeting](https://github.com/hugo-astier/udsc-crevoux/assets/11679496/2ee45930-f05b-4bbb-8680-fd6871971aac)
+# Participation de l'UDSC :
+
+- L'UDSC a participé à ces ateliers pour s'informer sur les projets du territoire.
+- L'UDSC a rappelé la singularité de la commune de Crévoux rattachée à la COMCOM de l'Embrunais.
+- L'UDSC a échangé à ces occasions avec le Vice-Président de l'association des villages de montagne sur le développement de la station village de Crévoux.
+
+![SCOT2](https://github.com/udsc-crevoux/udsc-live/assets/168073304/5b2954cd-5c87-425d-9dcb-b43ed0f5cb76)
