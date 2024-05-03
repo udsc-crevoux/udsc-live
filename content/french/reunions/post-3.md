@@ -1,7 +1,7 @@
 ---
 title: "REUNION PUBLIQUE SCOT"
 date: 2024-04-11
-image: [SCOT2](https://github.com/udsc-crevoux/udsc-live/assets/168073304/3bc71074-237c-4b40-ac1d-883157e9eb82)
+image: (https://github.com/udsc-crevoux/udsc-live/assets/168073304/3bc71074-237c-4b40-ac1d-883157e9eb82)
 
 categories: ["Réunion"]
 author: "Crevoux Crevoux"
