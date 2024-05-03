@@ -9,8 +9,7 @@ draft: false
 
 # Présentation de la démarche SCoT :
 
-Dès janvier 2022, les élus de la com![Uploading SCOT2.jpg…]()
-munauté de communes de Serre-Ponçon ont souhaité s’engager dans l’élaboration de leur Schéma de Cohérence Territoriale. 
+Dès janvier 2022, les élus de la communauté de communes de Serre-Ponçon ont souhaité s’engager dans l’élaboration de leur Schéma de Cohérence Territoriale. 
 Ce document de planification portera la stratégie d’aménagement et de développement du territoire à 20 ans. 
 Qu’est-ce que le SCoT ?
 
