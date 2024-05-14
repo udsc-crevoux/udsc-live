@@ -1,5 +1,5 @@
 ---
-title: "PRESENTATION DE JOEL GIRAUC"
+title: "PRESENTATION DE JOEL GIRAUD"
 date: 2024-04-11
 image: ![image](https://github.com/udsc-crevoux/udsc-live/assets/168073304/99ca91f4-8bca-402a-b254-ce789215bd85)
 
