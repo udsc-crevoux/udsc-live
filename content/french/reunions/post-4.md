@@ -1,26 +1,28 @@
 ---
-title: "REUNION PUBLIQUE SCOT"
+title: "PRESENTATION DE JOEL GIRAUC"
 date: 2024-04-02
-image: https://github.com/udsc-crevoux/udsc-live/assets/168073304/5b2954cd-5c87-425d-9dcb-b43ed0f5cb76
+image: ![image](https://github.com/udsc-crevoux/udsc-live/assets/168073304/99ca91f4-8bca-402a-b254-ce789215bd85)
+
 categories: ["Réunion"]
 author: "Hugo Astier"
 draft: false
 ---
 
-# Présentation de la démarche SCoT :
+# Présentation du rapport commandité par Mme BORNE, de l'ancien député :
 
-Dès janvier 2022, les élus de la communauté de communes de Serre-Ponçon ont souhaité s’engager dans l’élaboration de leur Schéma de Cohérence Territoriale. 
-Ce document de planification portera la stratégie d’aménagement et de développement du territoire à 20 ans. 
-Qu’est-ce que le SCoT ?
-
-Le SCoT sera un cadre de référence à l’échelle de l’intercommunalité, pour mettre en cohérence l’ensemble des politiques publiques d’aménagement du territoire : mobilité, développement économique, développement résidentiel, transition écologique…
-Il permet une réflexion collective sur les défis du territoire en matière de transition écologique, énergétique et de changement climatique.
-Il vise à trouver des solutions partagées pour assurer le développement du territoire tout en préservant les ressources naturelles.
+L'association la Société Alpine de Protection de la Nature – France Nature Environnement Hautes-Alpes (SAPN-FNE 05) a organisé une réunion publique jeudi 11 avril
+à 18 h à la salle des fêtes d’Embrun sur le thème « Pour une montagne vivante en 2030 ».
+Joël GIRAUD, ancien ministre et Député de la 2° circonscription des Hautes-Alpes a présenté son rapport remis à l’ancienne Première Ministre Elisabeth Borne et intitulé :
+« Les nouveaux enjeux de développement des territoires de montagne » « Pour une montagne vivante en 2030 »
+Comme indiqué dans ce rapport face au changement climatique il convient de changer notre regard sur la montagne afin de changer de cap. Des recommandations émanant de
+ce rapport vont dans le sens de certaines propositions émises par la SAPN – FNE 05. Il s’agit, entre autre, des recommandations concernant la mutation du système touristique
+tout ski et de sa nécessaire diversification. Il convient aussi de noter celles relatant d’une économie circulaire avec les retombées sur les plans alimentaires territoriaux et le type
+d’agriculture correspondant.
 
 # Participation de l'UDSC :
 
-- L'UDSC a participé à ces ateliers pour s'informer sur les projets du territoire.
-- L'UDSC a rappelé la singularité de la commune de Crévoux rattachée à la COMCOM de l'Embrunais.
-- L'UDSC a échangé à ces occasions avec le Vice-Président de l'association des villages de montagne sur le développement de la station village de Crévoux.
+- L'UDSC a noté que les investissements pour maintenir l'activité des stations de ski devaient être réflêchis et dépendaient évidemment de la situation géographique des stations concernées.
+- L'avenir des stations passe par la pluriactivité toutes saisons.
 
-![SCOT2](https://github.com/udsc-crevoux/udsc-live/assets/168073304/5b2954cd-5c87-425d-9dcb-b43ed0f5cb76)
+
+![image](https://github.com/udsc-crevoux/udsc-live/assets/168073304/d5ce15f5-1df7-47c9-910b-74e58b768161)
