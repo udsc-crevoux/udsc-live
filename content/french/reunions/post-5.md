@@ -1,7 +1,9 @@
 ---
 title: "REUNION M. LAUDRE VARS"
 date: 2024-04-03
-image: 
+image: ![image](https://github.com/udsc-crevoux/udsc-live/assets/168073304/1ccbeeca-3b53-4319-93c9-26905d0ac0c8)
+
+
 
 categories: ["Réunion"]
 author: "Hugo Astier"
@@ -27,4 +29,5 @@ Aussi, M. le Président reste à l’écoute de l’ensemble des partenaires pou
 L’UDSC remercie Monsieur Laudré de cet entretien constructif et transparent.
 Cette démarche va être reconduite auprès des autres acteurs décideurs concernés, pour réunir tous les éléments nécessaires à la réalisation d’un projet adapté et réaliste dans le temps, afin de redessiner collectivement l’avenir de la Station de Crévoux.
 
+![image](https://github.com/udsc-crevoux/udsc-live/assets/168073304/d8850ac5-1adb-4fbd-9cc7-6a78eef5a3cb)
 
