@@ -1,4 +1,12 @@
-
+---
+title: "BILAN UDSC"
+date: 2024-01-25
+image: ""
+categories: ["Réunion"]
+author: "Eve Le Berre"
+draft: false
+---
+PRESENTATION DU BILAN DE L'UDSC
 
 Trois mois après sa création en janvier 2024, l’UDSC souhaite faire un premier bilan de son action.
 
