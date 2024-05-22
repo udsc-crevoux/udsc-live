@@ -44,3 +44,4 @@ En attendant ce sursaut, vous pouvez compter sur l’UDSC pour :
 -	Organiser des activités innovantes pour faire découvrir les ressources et trésors de Crévoux,
 -	Rester à l’écoute de tous pour œuvrer pour le bien collectif,
 -	Soutenir les acteurs économiques et résidants pour pérenniser notre avenir.
+[bilanUdsc.pdf](https://github.com/udsc-crevoux/udsc-live/files/15404842/bilanUdsc.pdf)
