@@ -1,7 +1,8 @@
 ---
 title: "BILAN UDSC"
 date: 2024-01-25
-image: ""
+image: "[bilanUdsc.pdf](https://github.com/udsc-crevoux/udsc-live/files/15404855/bilanUdsc.pdf)"
+
 categories: ["Réunion"]
 author: "Eve Le Berre"
 draft: false
